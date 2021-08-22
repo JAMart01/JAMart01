@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMart011&show_icons=true&hide_border=true&title_color=#ff4656&bg_color=#111723&text_color=#FFFBF5)](https://github.com/anuraghazra/github-readme-stats)
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMart01&show_icons=true&hide_border=true&title_color=#ff4656&bg_color=#111723&text_color=#FFFBF5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/jorge-martinez-64315b209/
