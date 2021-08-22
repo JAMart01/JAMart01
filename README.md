@@ -28,7 +28,7 @@
 
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMart01&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JAMart01&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JAMart01&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [linkedin]: https://www.linkedin.com/in/jorge-martinez-64315b209/
