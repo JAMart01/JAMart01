@@ -2,9 +2,9 @@
 
 
 ## I'm a Full-Stack Developer in training
-- 🔭 I’m currently working on a Full-Stack Website called JustAsk
+- 🔭 I recently graduated from my Software Development Boot Camp
 - 🌱 I’m currently learning anything and everything I can
-- 🥅 2020 Goals: Graduate from my Boot Camp and find a job as a software developer
+- 🥅 2021 Goals: Find a job as a software developer
 - ⚡ Fun fact: I like to tinker with electronics in my spare time
 
 ## Connect with me: 
